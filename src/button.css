@@ -1,0 +1,73 @@
+.input{
+    top: 40px;
+    left: 18px;
+    font-size: 30px;
+    position: absolute;
+    color: #fff;
+}
+
+.answer{
+    font-size: 36px;
+    position: absolute;
+    color: #fff;
+    top: 80px;
+    left: 18px;
+}
+
+#whitespace{
+    bottom: 69px;
+    font-size: 24px;
+    order: 18;
+    height: 124px;
+    background: linear-gradient(320deg, rgba(7,93,86,1) 0%, rgba(5,233,232,1) 100%);
+}
+#zero{
+    order: 17;
+    width: 124px;
+}
+#point{
+    order: 16;
+    top: 69px;
+    right: 69px;
+    font-size: 30px;
+    background: rgb(32,59,70);
+    background: linear-gradient(320deg, rgba(32,59,70,1) 0%, rgba(37, 91, 105) 100%);
+}
+
+#plus{
+    font-size: 30px;
+    order: 12;
+    background: rgb(32,59,70);
+    background: linear-gradient(320deg, rgba(32,59,70,1) 0%, rgba(37, 91, 105) 100%);    
+}
+
+#minus{
+    font-size: 30px;
+    margin-left: 0px;
+    order: 8;
+    background: rgb(32,59,70);
+    background: linear-gradient(320deg, rgba(32,59,70,1) 0%, rgba(37, 91, 105) 100%); 
+}
+
+#C{
+    order: 1;
+    background: rgb(32,59,70);
+    background: linear-gradient(320deg, rgba(32,59,70,1) 0%, rgb(37, 91, 105) 100%); 
+}
+#÷{
+    font-size: 30px;
+    order: 2;
+    background: rgb(32,59,70);
+    background: linear-gradient(320deg, rgba(32,59,70,1) 0%, rgba(37, 91, 105) 100%); 
+}
+#×{
+    font-size: 30px;
+    order: 3;
+    background: rgb(32,59,70);
+    background: linear-gradient(320deg, rgba(32,59,70,1) 0%, rgba(37, 91, 105) 100%); 
+}
+#⌫{
+    order: 4;
+    background: rgb(32,59,70);
+    background: linear-gradient(320deg, rgba(32,59,70,1) 0%, rgba(37, 91, 105) 100%); 
+}
